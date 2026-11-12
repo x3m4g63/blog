@@ -100,8 +100,7 @@ pnpm new a/b/my-post.md
 
 ## 部署
 
-托管在 Cloudflare。
-具体参考 [deploy](https://github.com/x3m4g63/blog/blob/main/src/content/posts/blog-welcome.md)
+托管在 Cloudflare。具体参考 [deploy](https://github.com/x3m4g63/blog/blob/main/src/content/posts/blog-welcome.md)
 
 ## 许可
 
